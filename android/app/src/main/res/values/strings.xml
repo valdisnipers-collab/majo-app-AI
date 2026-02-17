@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Majo</string>
+    <string name="title_activity_main">Majo</string>
+    <string name="package_name">lv.majo.app</string>
+    <string name="custom_url_scheme">lv.majo.app</string>
+</resources>
